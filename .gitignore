@@ -1,0 +1,6 @@
+# IDE settings
+.idea
+.vscode
+
+# vi swap
+*.swp
